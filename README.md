@@ -1,86 +1,94 @@
-<!DOCTYPE html>
-<html lang="en">
+# My Portfolio
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portfolio README</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-            background-color: #f9f9f9;
-            color: #333;
-        }
-        h1, h2, h3 {
-            color: #444;
-        }
-        a {
-            color: #0066cc;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-        ul {
-            list-style-type: disc;
-            margin-left: 20px;
-        }
-        code {
-            background-color: #eaeaea;
-            padding: 2px 4px;
-            border-radius: 4px;
-        }
-    </style>
-</head>
+Welcome to my GitHub Portfolio! Here you'll find a collection of my work, including projects, code snippets, and tools that I've developed. This repository serves as a showcase of my skills and the technologies I'm working with. Feel free to explore the various sections below!
 
-<body>
-    <header>
-        <h1>Portfolio README</h1>
-        <p>Welcome to my portfolio repository! This README provides an overview of my professional experience, skills, and projects. Feel free to explore and connect with me if you have any questions or opportunities.</p>
-    </header>
+## 📌 Table of Contents
 
-    <section>
-        <h2>About Me</h2>
-        <p>Hi! I'm a data analyst with 3+ years of experience in project management, data visualization, and survey analysis. I specialize in turning data into actionable insights using tools like Python, MySQL, and Power BI.</p>
-    </section>
+- [About Me](#about-me)
+- [Skills](#skills)
+- [Projects](#projects)
+- [Technologies](#technologies)
+- [Experience](#experience)
+- [Contact](#contact)
 
-    <section>
-        <h2>Projects</h2>
-        <h3>Sales Dashboard</h3>
-        <p><strong>Description:</strong> Developed an interactive dashboard using Power BI to visualize sales trends, profit margins, and customer segmentation.</p>
-        <p><strong>Key Tools:</strong> Power BI, Excel, SQL</p>
+---
 
-        <h3>Sentiment Analysis</h3>
-        <p><strong>Description:</strong> Led a project to analyze survey feedback using Python. Extracted meaningful insights to support strategic decision-making.</p>
-        <p><strong>Key Tools:</strong> Python, Pandas, Matplotlib</p>
+## About Me
 
-        <h3>Fitness Tracker Analysis</h3>
-        <p><strong>Description:</strong> Built a data pipeline and dashboard to analyze user fitness activity, tracking metrics like calories burned and workout frequency.</p>
-        <p><strong>Key Tools:</strong> Python, SQL, Power BI</p>
-    </section>
+I am a data analyst, project manager, and web developer with a passion for solving problems through technology. I have experience in:
 
-    <section>
-        <h2>Skills</h2>
-        <ul>
-            <li><strong>Data Analysis:</strong> Python, MySQL, Power BI</li>
-            <li><strong>Web Scraping:</strong> Scrapy, XPath</li>
-            <li><strong>Visualization:</strong> Matplotlib, Seaborn</li>
-            <li><strong>Communication:</strong> Reporting, Presentation</li>
-        </ul>
-    </section>
+- Data analysis using **Python**, **MySQL**, and **Power BI**.
+- Building dashboards and data-driven reports.
+- Conducting research and surveys to gather insights for business solutions.
+- Proficient in project management, including leading teams and driving strategies.
+- Open to new challenges and continually learning new technologies.
 
-    <section>
-        <h2>Contact</h2>
-        <p><strong>Email:</strong> <a href="mailto:your_email@example.com">your_email@example.com</a></p>
-        <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/your-profile" target="_blank">linkedin.com/in/your-profile</a></p>
-        <p><strong>GitHub:</strong> <a href="https://github.com/your-username" target="_blank">github.com/your-username</a></p>
-    </section>
+---
 
-    <footer>
-        <p>&copy; 2025 Your Name. All rights reserved.</p>
-    </footer>
-</body>
+## Skills
 
-</html>
+- **Data Analysis**: Python (Pandas, NumPy), SQL, Excel, Power BI
+- **Programming**: Python, MySQL, HTML, CSS, JavaScript
+- **Data Visualization**: Power BI, Matplotlib, Seaborn
+- **Web Scraping**: BeautifulSoup, Scrapy
+- **Project Management**: Agile, Scrum, Roadmapping, Stakeholder Coordination
+- **Tools**: Git, GitHub, JIRA, Tableau, Excel
+
+---
+
+## Projects
+
+Here are some of my key projects:
+
+### 📊 [Sales Dashboard Analysis](https://github.com/yourusername/sales-dashboard)
+- **Description**: A Power BI dashboard that tracks sales data, showing key insights like sales by region, customer segment, and product category.
+- **Skills**: Power BI, Data Analysis, Data Visualization
+
+### 🛠 [Data Analysis in Python](https://github.com/yourusername/data-analysis-python)
+- **Description**: A collection of data analysis projects using Python for data cleaning, transformation, and analysis.
+- **Skills**: Python (Pandas, NumPy), Data Cleaning
+
+### 📈 [MySQL Data Modeling](https://github.com/yourusername/mysql-data-modeling)
+- **Description**: A repository that contains SQL scripts for creating and querying databases, including advanced joins, subqueries, and data manipulations.
+- **Skills**: MySQL, SQL Queries
+
+### 🌐 [Web Scraping Projects](https://github.com/yourusername/web-scraping)
+- **Description**: A collection of web scraping scripts that extract data from websites using BeautifulSoup and Scrapy.
+- **Skills**: Web Scraping, Python, BeautifulSoup, Scrapy
+
+---
+
+## Technologies
+
+- **Programming Languages**: Python, JavaScript, SQL
+- **Libraries & Frameworks**: Pandas, NumPy, Matplotlib, Seaborn, Flask
+- **Tools**: Git, GitHub, Jupyter Notebooks, VS Code, Power BI
+- **Databases**: MySQL, SQLite
+- **Web Scraping**: BeautifulSoup, Scrapy
+
+---
+
+## Experience
+
+### 🧑‍💼 [Campaign Manager | [Your Organization]](https://your-organization.com)
+*January 2022 - Present*
+
+- Managed a team of analysts and researchers to gather insights for political campaigns.
+- Developed sentiment analysis surveys and campaign strategies.
+- Led the creation of data-driven reports for campaign performance.
+
+### 🧑‍💻 [Research Intern | Evepaper.com](https://evepaper.com)
+*August 2024 - Present*
+
+- Conducted research on various topics, providing insights to support organizational strategies.
+- Collaborated with internal and external teams to develop data-driven reports.
+
+---
+
+## Contact
+
+Feel free to reach out to me through:
+
+- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **LinkedIn**: [your-linkedin](https://www.linkedin.com/in/your-linkedin)
+- **Website**: [your-website.com](https://www.your-website.com)
