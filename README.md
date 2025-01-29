@@ -39,7 +39,7 @@ I am an aspiring data analyst, with a passion for solving problems through techn
 
 Here are some of my key projects:
 
-### 📊 [Sales Dashboard Analysis](https://github.com/yourusername/sales-dashboard)
+### 📊 [Coffee Sales Dashboard]([https://github.com/tuhinbasu/BeanTrack-Coffee-Sales-Insights-Dashboard])
 - **Description**: A Power BI dashboard that tracks sales data, showing key insights like sales by region, customer segment, and product category.
 - **Skills**: Power BI, Data Analysis, Data Visualization
 
