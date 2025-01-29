@@ -7,8 +7,6 @@ Welcome to my GitHub Portfolio! Here you'll find a collection of my work, includ
 - [About Me](#about-me)
 - [Skills](#skills)
 - [Projects](#projects)
-- [Technologies](#technologies)
-- [Experience](#experience)
 - [Contact](#contact)
 
 ---
@@ -43,7 +41,7 @@ Here are some of my key projects:
 - **Description**: An interactive Excel dashboard that tracks trends, regional performance, top customers, and product insights using advanced Excel functions and dynamic visualizations.
 - **Skills**: Excel, Data Analysis, Data Visualization
 
-### :bar_chart: [Kickstarter MySql Project](https://github.com/tuhinbasu/Kickstarter_mysql_project)
+### :office: [Kickstarter MySql Project](https://github.com/tuhinbasu/Kickstarter_mysql_project)
 - **Description**: The aim was to deliver strategic insights to Kickstarter stakeholders, enhance campaign success rates, analyze  the key factors that attract funding from backers, and identify potential growth opportunities.
 - **Skills**: MySql, Data Cleaning, PowerPoint Presentation
 
@@ -51,43 +49,14 @@ Here are some of my key projects:
 - **Description**: A comprehensive study of the performance of Tata's flagship stocks (TCS, Tata Motors, Tata Steel) and NSE50 to evaluate their historical performance, trends, and potential for long-term investment.
 - **Skills**: Python (Pandas, NumPy, Matplotlib, Seaborn, finance), MS Word
 
-### 🛠 [Web Scraping Projects](https://github.com/yourusername/web-scraping)
-- **Description**: A collection of web scraping scripts that extract data from websites using BeautifulSoup and Scrapy.
-- **Skills**: Web Scraping, Python, BeautifulSoup, Scrapy
+### 🛠 [Netflix EDA](https://github.com/tuhinbasu/Netflix_EDA_Analysis)
+- **Description**: The project aims to perform in-depth Exploratory Data Analysis (EDA) and explore content performance, compare exclusive vs. non-exclusive content, and identify top categories. It provides insights into how content rank relates to viewership, aiding in understanding Netflix's content strategy.
+- **Skills**: Python, Data Cleaning, Data Analysis, Data Visualization.
 
 ---
-
-## Technologies
-
-- **Programming Languages**: Python, JavaScript, SQL
-- **Libraries & Frameworks**: Pandas, NumPy, Matplotlib, Seaborn, Flask
-- **Tools**: Git, GitHub, Jupyter Notebooks, VS Code, Power BI
-- **Databases**: MySQL, SQLite
-- **Web Scraping**: BeautifulSoup, Scrapy
-
----
-
-## Experience
-
-### 🧑‍💼 [Campaign Manager | [Your Organization]](https://your-organization.com)
-*January 2022 - Present*
-
-- Managed a team of analysts and researchers to gather insights for political campaigns.
-- Developed sentiment analysis surveys and campaign strategies.
-- Led the creation of data-driven reports for campaign performance.
-
-### 🧑‍💻 [Research Intern | Evepaper.com](https://evepaper.com)
-*August 2024 - Present*
-
-- Conducted research on various topics, providing insights to support organizational strategies.
-- Collaborated with internal and external teams to develop data-driven reports.
-
----
-
 ## Contact
 
 Feel free to reach out to me through:
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [your-linkedin](https://www.linkedin.com/in/your-linkedin)
-- **Website**: [your-website.com](https://www.your-website.com)
+- **Email**: [tuhinbasu97@gmail.com](mailto:tuhinbasu97@gmail.com)
+- **LinkedIn**: [Tuhin Basu](https://www.linkedin.com/in/tuhinbasu/)
