@@ -39,19 +39,19 @@ I am an aspiring data analyst, with a passion for solving problems through techn
 
 Here are some of my key projects:
 
-### 📊 [Coffee Sales Dashboard](https://github.com/tuhinbasu/BeanTrack-Coffee-Sales-Insights-Dashboard)
+### 📊 [BeanTrack: Coffee Sales Dashboard](https://github.com/tuhinbasu/BeanTrack-Coffee-Sales-Insights-Dashboard)
 - **Description**: An interactive Excel dashboard that tracks trends, regional performance, top customers, and product insights using advanced Excel functions and dynamic visualizations.
 - **Skills**: Excel, Data Analysis, Data Visualization
 
-### 🛠 [Data Analysis in Python](https://github.com/yourusername/data-analysis-python)
-- **Description**: A collection of data analysis projects using Python for data cleaning, transformation, and analysis.
-- **Skills**: Python (Pandas, NumPy), Data Cleaning
+### :bar_chart: [Kickstarter MySql Project](https://github.com/tuhinbasu/Kickstarter_mysql_project)
+- **Description**: The aim was to deliver strategic insights to Kickstarter stakeholders, enhance campaign success rates, analyze  the key factors that attract funding from backers, and identify potential growth opportunities.
+- **Skills**: MySql, Data Cleaning, PowerPoint Presentation
 
-### 📈 [MySQL Data Modeling](https://github.com/yourusername/mysql-data-modeling)
-- **Description**: A repository that contains SQL scripts for creating and querying databases, including advanced joins, subqueries, and data manipulations.
-- **Skills**: MySQL, SQL Queries
+### 📈 [Stock Portfolio Project in Python](https://github.com/tuhinbasu/Stock-Portfolio-Project)
+- **Description**: A comprehensive study of the performance of Tata's flagship stocks (TCS, Tata Motors, Tata Steel) and NSE50 to evaluate their historical performance, trends, and potential for long-term investment.
+- **Skills**: Python (Pandas, NumPy, Matplotlib, Seaborn, finance), MS Word
 
-### 🌐 [Web Scraping Projects](https://github.com/yourusername/web-scraping)
+### 🛠 [Web Scraping Projects](https://github.com/yourusername/web-scraping)
 - **Description**: A collection of web scraping scripts that extract data from websites using BeautifulSoup and Scrapy.
 - **Skills**: Web Scraping, Python, BeautifulSoup, Scrapy
 
