@@ -1,6 +1,6 @@
 # My Portfolio
-
-Welcome to my GitHub Portfolio! Here you'll find a collection of my work, including projects, code snippets, and tools that I've developed. This repository serves as a showcase of my skills and the technologies I'm working with. Feel free to explore the various sections below!
+Hello, My name is Tuhin Basu.
+Welcome to my GitHub Portfolio! Here you'll find a collection of my work, including projects that I've developed. This repository serves as a showcase of my skills and the technologies I'm working with. Feel free to explore the various sections below!
 
 ## 📌 Table of Contents
 
@@ -15,11 +15,11 @@ Welcome to my GitHub Portfolio! Here you'll find a collection of my work, includ
 
 ## About Me
 
-I am a data analyst, project manager, and web developer with a passion for solving problems through technology. I have experience in:
+I am an aspiring data analyst, with a passion for solving problems through technology. I have experience in:
 
-- Data analysis using **Python**, **MySQL**, and **Power BI**.
+- Data analysis using **Python**, **MySQL**, **Excel**, and **Power BI**.
 - Building dashboards and data-driven reports.
-- Conducting research and surveys to gather insights for business solutions.
+- Researching to gather insights for business solutions.
 - Proficient in project management, including leading teams and driving strategies.
 - Open to new challenges and continually learning new technologies.
 
@@ -27,12 +27,11 @@ I am a data analyst, project manager, and web developer with a passion for solvi
 
 ## Skills
 
-- **Data Analysis**: Python (Pandas, NumPy), SQL, Excel, Power BI
-- **Programming**: Python, MySQL, HTML, CSS, JavaScript
-- **Data Visualization**: Power BI, Matplotlib, Seaborn
-- **Web Scraping**: BeautifulSoup, Scrapy
-- **Project Management**: Agile, Scrum, Roadmapping, Stakeholder Coordination
-- **Tools**: Git, GitHub, JIRA, Tableau, Excel
+- **Languages**: Python, SQL, HTML
+- **Frameworks**: Pandas, NumPy, Matplotlib, Seaborn, finance, BeautifulSoup
+- **Tools**: Excel, Power BI, MySql
+- **Platform**: Google Collab, Jupyter Notebook, MySQL Workbench, GitHub
+- **soft Skills**: Stakeholder Management, Excellent Communication, Rapport Building, Critical Thinking, Report Writing
 
 ---
 
